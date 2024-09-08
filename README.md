@@ -17,4 +17,6 @@ Os dados dos atletas são armazenados em um array de objetos JavaScript, cada um
 
 ## Como Rodar o Projeto
 1. **Clone o repositório:**
+   OU
+2. **Abra o Link abaixo:**
 Link: https://primeiro-projeto-em-html.vercel.app/
